@@ -1,0 +1,19 @@
+.copy_right_footer{
+    position: fixed;
+    color:white;
+    bottom:0;
+    width:100%;
+    background-color:blue;
+    text-align:center;
+    line-height:3;
+    text-shadow:5px 5px 5px navy;
+}
+body{
+    font-family:'Special Elite', cursive;
+    background:pink;
+}
+canvas{
+    border:5px solid white;
+    border-radius:20px;
+    box-shadow:5px 5px 5px red;
+}
